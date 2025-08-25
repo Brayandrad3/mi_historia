@@ -1,0 +1,12 @@
+
+body{
+    background: #000000;
+    text-align: center;
+    padding: 50px;
+    color: red;
+    box-sizing: border-box;
+}
+
+a{
+    color: red;
+}
