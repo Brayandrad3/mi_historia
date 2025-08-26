@@ -1,4 +1,7 @@
 
+
+
+
 body{
     background: #000000;
     text-align: center;
@@ -17,4 +20,16 @@ ul{
 
 #principal{
     display: flex;
+}
+
+.cont2{
+    padding: 0px 30px;
+}
+
+#cualidades{
+    padding: 0px 70px;
+}
+
+#miInfancia p{
+    padding: 0px 70px;
 }
