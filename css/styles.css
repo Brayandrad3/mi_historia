@@ -27,9 +27,13 @@ ul{
 }
 
 #cualidades{
-    padding: 0px 70px;
+    padding: 10px 70px;
 }
 
 #miInfancia p{
-    padding: 0px 70px;
+    padding: 10px 80px;
+}
+
+#estudios{
+    padding: 10px 70px;
 }
