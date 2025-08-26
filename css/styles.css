@@ -14,3 +14,7 @@ a{
 ul{
     text-align: left;
 }
+
+#principal{
+    display: flex;
+}
